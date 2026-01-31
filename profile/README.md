@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Devs4Devs. A team of currently 5 developers, working on the next big platform.
+Devs4Devs. Create. Share. Learn.
 
 Checkout https://www.devsfordevs.com/
 
